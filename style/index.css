@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+.jumbotron {
+    background-image: url('../images/sound-wave.jpg');
+    background-position-y: -8rem;
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+.album-cover {
+    height: 350px;
+    object-fit: cover;
+}
